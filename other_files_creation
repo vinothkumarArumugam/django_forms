@@ -1,0 +1,3 @@
+# settings.py---this file same as another file like telling apps name,where the template folder is located,static folder is located
+# views.py ---- you to make functions and import forms field in it
+#urls.py same as general file creation
